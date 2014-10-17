@@ -19,14 +19,14 @@ desktop, embedded and mobile platforms.
 ### Development Topics ###
 
  * Requirements
-    * - Application Types
+    * Application Types
       * Reporting
  * Architecture
-    * - Organization Flow
+    * Organization Flow
       * Class, Interface - The blueprint, the API declaration.
       * Package - Namespace (for naming conflicts).
       * Component - User Interface, Database, CURL, etc.
-    * - How is the application structured, and why?
+    * How is the application structured, and why?
       * This is a General Purpose Framework
       * Loosely Coupled
  * Technical
@@ -36,21 +36,21 @@ desktop, embedded and mobile platforms.
 
 ### Getting Started ###
 
- * 1. Introduction
- * 2. Requests & Dispatching
- * 3. Framework Variables
- * 4. Views & Templates
- * 5. Database
- * 6. Modules & Packages
- * 7. Optimization
- * 8. Testing
- * 9. Support & Licensing
+ 1. Introduction
+ 2. Requests & Dispatching
+ 3. Framework Variables
+ 4. Views & Templates
+ 5. Database
+ 6. Modules & Packages
+ 7. Optimization
+ 8. Testing
+ 9. Support & Licensing
 
 ### API Lookup ###
 
 Classes by Alphabet
- * a.
- * b. 
+ a.
+ b. 
 
 Function Index
  * a.
